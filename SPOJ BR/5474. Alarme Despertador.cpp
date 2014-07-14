@@ -1,4 +1,4 @@
-// Problem: 5474. Alarme Despertador (ALADES)
+// Problem: 5474. Alarme Despertador (http://br.spoj.com/problems/ALADES)
 
 #include <iostream>
 using namespace std;
