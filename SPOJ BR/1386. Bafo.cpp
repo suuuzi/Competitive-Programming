@@ -1,4 +1,4 @@
-// Problem: 1386. Bafo (BAFO)
+// Problem: 1386. Bafo (http://br.spoj.com/problems/BAFO)
 
 #include <iostream>
 using namespace std;
