@@ -1,4 +1,4 @@
-// Problem: 11005. Calculadora (CALCU11)
+// Problem: 11005. Calculadora (http://br.spoj.com/problems/CALCU11/)
 
 #include "stdio.h"
  
