@@ -1,4 +1,4 @@
-// Problem: 11605. Botas perdidas (BOTAS)
+// Problem: 11605. Botas perdidas (http://br.spoj.com/problems/BOTAS)
 
 #include <iostream>
 #include <cstring>
