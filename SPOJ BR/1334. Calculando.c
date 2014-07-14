@@ -1,4 +1,4 @@
-// Problem: 1334. Calculando (CALCULA)
+// Problem: 1334. Calculando (http://br.spoj.com/problems/CALCULA)
 
 #include "stdio.h"
 int contador = 1;
