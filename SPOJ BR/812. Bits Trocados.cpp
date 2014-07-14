@@ -1,4 +1,4 @@
-// Problem: 812. Bits Trocados (BIT)
+// Problem: 812. Bits Trocados (http://br.spoj.com/problems/BIT)
 
 #include <iostream>
 using namespace std;
