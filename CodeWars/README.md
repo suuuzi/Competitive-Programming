@@ -10,6 +10,7 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>7kyu</b>
+- getNames() (http://www.codewars.com/kata/514a677421607afc99000002)
 - JavaScript Array Filter (http://www.codewars.com/kata/514a6336889283a3d2000001)
 - Limit string length - 1 (http://www.codewars.com/kata/5208fc3cb613bc725f000142)
 - Naughty or Nice? (http://www.codewars.com/kata/52a6b34e43c2484ac10000cd)
