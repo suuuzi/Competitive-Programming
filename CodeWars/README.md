@@ -8,8 +8,10 @@ www.codewars.com/r/Oa2yyw
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 - Find the Remainder (http://www.codewars.com/kata/524f5125ad9c12894e00003f)
 - Function 1 - hello world (http://www.codewars.com/kata/523b4ff7adca849afe000035)
+- Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027)
 - Function 3 - multiplying two numbers (http://www.codewars.com/kata/523b66342d0c301ae400003b)
 - How many lightsabers do you own? (http://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
+- Kata Example Twist (http://www.codewars.com/kata/525c1a07bb6dda6944000031)
 - Multiply (http://www.codewars.com/kata/50654ddff44f800200000004)
 - Plural (http://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
 
@@ -19,6 +21,7 @@ www.codewars.com/r/Oa2yyw
 - Basic JS - Building a calculator (http://www.codewars.com/kata/529f2d1c403a58f660000656)
 - Basic JS - Calculating averages (http://www.codewars.com/kata/529f32794a6db5d32a00071f)
 - Disemvowel Trolls (http://www.codewars.com/kata/52fba66badcd10859f00097e)
+- Elapsed Seconds (http://www.codewars.com/kata/517b25a48557c200b800000c)
 - esreveR gnirtS (http://www.codewars.com/kata/52b74e0936d582d9210005ff)
 - For the sake of argument (http://www.codewars.com/kata/5258b272e6925db09900386a)
 - getNames() (http://www.codewars.com/kata/514a677421607afc99000002)
