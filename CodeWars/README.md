@@ -8,7 +8,7 @@ www.codewars.com/r/Oa2yyw
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 - Find the Remainder (http://www.codewars.com/kata/524f5125ad9c12894e00003f)
 - Function 1 - hello world (http://www.codewars.com/kata/523b4ff7adca849afe000035)
-- Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027)
+- Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027) (JS and Ruby)
 - Function 3 - multiplying two numbers (http://www.codewars.com/kata/523b66342d0c301ae400003b)
 - How many lightsabers do you own? (http://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 - Kata Example Twist (http://www.codewars.com/kata/525c1a07bb6dda6944000031)
