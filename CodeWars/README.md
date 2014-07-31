@@ -50,3 +50,7 @@ www.codewars.com/r/Oa2yyw
 <br>
 <b>4kyu</b>
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
+
+<br>
+<b>Beta (Python)</b>
+- Name your Python! (http://www.codewars.com/kata/name-your-python/python)
