@@ -5,7 +5,7 @@ function solution(date){
 	var s = 0;
 
 	for(var i = 0; i < arr.length; i++){
-      s += parseInt(arr[i]);
+      		s += parseInt(arr[i]);
 	}
 	
 	if(s > 9){
