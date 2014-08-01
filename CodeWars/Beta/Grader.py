@@ -1,4 +1,4 @@
-// Problem: Grader (http://www.codewars.com/kata/grader/python)
+# Problem: Grader (http://www.codewars.com/kata/grader/python)
 
 def grader(score):
   if score > 1 or score < 0.6:
