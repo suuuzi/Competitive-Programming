@@ -1,4 +1,4 @@
-// Problem: Did I Finished my Sudoku? (http://www.codewars.com/kata/did-i-finished-my-sudoku/python) - My test kata
+# Problem: Did I Finished my Sudoku? (http://www.codewars.com/kata/did-i-finished-my-sudoku/python) - My test kata
 
 def done_or_not(board):
   sum_cols = [0,0,0,0,0,0,0,0,0];
