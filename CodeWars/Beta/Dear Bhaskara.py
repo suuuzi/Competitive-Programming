@@ -1,4 +1,4 @@
-// Problem: Dear Bhaskara (http://www.codewars.com/kata/dear-bhaskara) My Test Kata
+# Problem: Dear Bhaskara (http://www.codewars.com/kata/dear-bhaskara) My Test Kata
 
 from math import sqrt
  
