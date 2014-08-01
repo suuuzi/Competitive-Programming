@@ -58,3 +58,4 @@ www.codewars.com/r/Oa2yyw
 - Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My Kata
 - Grader (http://www.codewars.com/kata/grader/python)
 - Name your Python! (http://www.codewars.com/kata/name-your-python/python)
+- Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
