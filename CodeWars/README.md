@@ -53,6 +53,7 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta (Python)</b>
-- Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My test Kata
+- Did I Finished my Sudoku? (http://www.codewars.com/kata/did-i-finished-my-sudoku/python) - My test Kata
+- Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My Kata
 - Grader (http://www.codewars.com/kata/grader/python)
 - Name your Python! (http://www.codewars.com/kata/name-your-python/python)
