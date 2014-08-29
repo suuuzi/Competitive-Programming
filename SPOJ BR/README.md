@@ -50,7 +50,7 @@ http://br.spoj.com/
 - 2846. Paridade (http://br.spoj.com/problems/PARIDADE/)
 
 <br>
-<b>Sulamericanas</b>b>
+<b>Sulamericanas</b>
 - 3742. Feynman (http://br.spoj.com/problems/FEYNMAN/)
 - 9006. Flores florescem da França (http://br.spoj.com/problems/FLOWER10/)
 
