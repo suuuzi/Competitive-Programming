@@ -41,3 +41,18 @@ www.urionlinejudge.com.br
 - 1245 - Botas Perdidas (https://www.urionlinejudge.com.br/judge/pt/problems/view/1245)
 - 1383 - Sudoku (https://www.urionlinejudge.com.br/judge/pt/problems/view/1383)
 - 1546 - Feedback (https://www.urionlinejudge.com.br/judge/pt/problems/view/1546)
+
+<b>Strings</b>
+- 1241 - Encaixa ou Não II (https://www.urionlinejudge.com.br/judge/pt/problems/view/1241)
+
+<b>Estruturas e bibliotecas</b>
+- 1259 - Pares e Ímpares (https://www.urionlinejudge.com.br/judge/pt/problems/view/1259)
+
+<b>Matemática</b>
+- 1221 - Primo Rápido (https://www.urionlinejudge.com.br/judge/pt/problems/view/1221)
+- 1240 - Encaixa ou Não I (https://www.urionlinejudge.com.br/judge/pt/problems/view/1240)
+- 1247 - Guarda Costeira (https://www.urionlinejudge.com.br/judge/pt/problems/view/1247)
+- 1323 - Feynman (https://www.urionlinejudge.com.br/judge/pt/problems/view/1323)
+
+<b>Geometria Computacional</b>
+- 1124 - Elevador (https://www.urionlinejudge.com.br/judge/pt/problems/view/1124)
