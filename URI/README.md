@@ -33,3 +33,11 @@ www.urionlinejudge.com.br
 - 1042 - Sort Simples (https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
 - 1043 - Triângulo (https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
 - 1044 - Múltiplos (https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
+
+<b>Ad-Hoc</b>
+- 1091 - Divisão da Nlogônia (https://www.urionlinejudge.com.br/judge/pt/problems/view/1091)
+- 1103 - Alarme Despertador (https://www.urionlinejudge.com.br/judge/pt/problems/view/1103)
+- 1140 - Flores Florescem da França (https://www.urionlinejudge.com.br/judge/pt/problems/view/1140)
+- 1245 - Botas Perdidas (https://www.urionlinejudge.com.br/judge/pt/problems/view/1245)
+- 1383 - Sudoku (https://www.urionlinejudge.com.br/judge/pt/problems/view/1383)
+- 1546 - Feedback (https://www.urionlinejudge.com.br/judge/pt/problems/view/1546)
