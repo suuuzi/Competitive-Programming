@@ -6,13 +6,17 @@ www.codewars.com/r/Oa2yyw
 - Basic Training: Add item to an Array (http://www.codewars.com/kata/511f0fe64ae8683297000001)
 - Broken Greetings (http://www.codewars.com/kata/50654ddff44f800200000001)
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+- Convert a String to a Number! (http://www.codewars.com/kata/convert-a-string-to-a-number/javascript)
+- Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My Kata
 - Find the Remainder (http://www.codewars.com/kata/524f5125ad9c12894e00003f)
 - Function 1 - hello world (http://www.codewars.com/kata/523b4ff7adca849afe000035)
-- Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027) (JS and Ruby)
+- Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027)
 - Function 3 - multiplying two numbers (http://www.codewars.com/kata/523b66342d0c301ae400003b)
+- Grader (http://www.codewars.com/kata/grader/python)
 - How many lightsabers do you own? (http://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 - Kata Example Twist (http://www.codewars.com/kata/525c1a07bb6dda6944000031)
 - Multiply (http://www.codewars.com/kata/50654ddff44f800200000004)
+- Name your Python! (http://www.codewars.com/kata/name-your-python/python)
 - Plural (http://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
 
 <br>
@@ -53,8 +57,5 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta (Python)</b>
-- Did I Finished my Sudoku? (http://www.codewars.com/kata/did-i-finished-my-sudoku/python) - My test Kata
-- Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My Kata
-- Grader (http://www.codewars.com/kata/grader/python)
-- Name your Python! (http://www.codewars.com/kata/name-your-python/python)
+- Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
