@@ -29,6 +29,7 @@ www.codewars.com/r/Oa2yyw
 - esreveR gnirtS (http://www.codewars.com/kata/52b74e0936d582d9210005ff)
 - For the sake of argument (http://www.codewars.com/kata/5258b272e6925db09900386a)
 - getNames() (http://www.codewars.com/kata/514a677421607afc99000002)
+- Greet Me (http://www.codewars.com/kata/greet-me/ruby)
 - JavaScript Array Filter (http://www.codewars.com/kata/514a6336889283a3d2000001)
 - Limit string length - 1 (http://www.codewars.com/kata/5208fc3cb613bc725f000142)
 - Milk and Cookies for Santa (http://www.codewars.com/kata/52af7bf41f5a1291a6000025)
