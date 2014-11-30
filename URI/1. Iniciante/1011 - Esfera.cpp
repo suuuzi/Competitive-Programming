@@ -5,11 +5,15 @@
 using namespace std;
 int main()
 {
-    int raio = 0;
+    double raio = 0;
     const double pi = 3.14159;
     cin >> raio;
- 
- 	cout << fixed << setprecision(3) << "VOLUME = " << ((4 * (pi * (raio * raio * raio))) / 3) << endl;
+    
+    double r3 = raio * raio * raio;
+    double v1 = (4.0 / 3.0);
+    double volume = v1 * pi * r3;
+
+ 	cout << fixed << setprecision(3) << "VOLUME = " << volume << endl;
  
     return 0;
 }
