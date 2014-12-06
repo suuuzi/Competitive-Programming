@@ -7,6 +7,7 @@ int main()
     scanf("%lf", &a);
     scanf("%lf", &b);
     scanf("%lf", &c);
+    
     result = (a * 0.2) + (b * 0.3) + (c * 0.5);
     printf("MEDIA = %.1lf\n", result);
     return 0;
