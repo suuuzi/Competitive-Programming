@@ -10,6 +10,7 @@ Alguns sites para brincar:
 *   [SPOJ](http://www.spoj.com/) - (EN)
 *   [CodeWars](http://www.codewars.com/) - Apenas Javascript, Ruby, Pyhton e Go (em breve mais linguagens). (EN)
 *   [URI Online Judge](http://www.urionlinejudge.com.br) - (PT)
+*   [Hacker Earth](http://www.hackerearth.com) - (EN)
 *   [Hacker Rank](https://www.hackerrank.com/) - (EN)
 *   [Project Euler](http://projecteuler.net/) - Problemas matemáticos (EN)
 *   [Rosalind](http://rosalind.info/problems/locations/) - Problemas de bioinformática (EN)
