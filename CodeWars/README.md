@@ -8,7 +8,7 @@ www.codewars.com/r/Oa2yyw
 - Broken Greetings (http://www.codewars.com/kata/50654ddff44f800200000001)
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 - Convert a String to a Number! (http://www.codewars.com/kata/convert-a-string-to-a-number/javascript)
-- Even or Odd (http://www.codewars.com/kata/even-or-odd) (Python and Ruby) - My Kata
+- Even or Odd (http://www.codewars.com/kata/even-or-odd) - My Kata
 - Find the Remainder (http://www.codewars.com/kata/524f5125ad9c12894e00003f)
 - Function 1 - hello world (http://www.codewars.com/kata/523b4ff7adca849afe000035)
 - Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027)
@@ -64,6 +64,6 @@ www.codewars.com/r/Oa2yyw
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 <br>
-<b>Beta (Python)</b>
+<b>Beta</b>
 - Counting sheep... (http://www.codewars.com/kata/counting-sheep-dot-dot-dot)
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
