@@ -40,6 +40,7 @@ www.codewars.com/r/Oa2yyw
 - No oddities here (http://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)
 - Number Of Occurrences (http://www.codewars.com/kata/52829c5fe08baf7edc00122b)
 - Operator overload ? (http://www.codewars.com/kata/52a0849a852a854d050005f4)
+- Partial Word Searching (http://www.codewars.com/kata/partial-word-searching)
 - Reversed Strings (http://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - Sentences with Functions (http://www.codewars.com/kata/52567c56cb6ac86b56000516)
 - Sort arrays - 1 (http://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
