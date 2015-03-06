@@ -3,6 +3,7 @@ Code Wars
 www.codewars.com/r/Oa2yyw
 
 <b>8kyu </b>
+- Are You Playing Banjo? (http://www.codewars.com/kata/are-you-playing-banjo)
 - Basic Training: Add item to an Array (http://www.codewars.com/kata/511f0fe64ae8683297000001)
 - Broken Greetings (http://www.codewars.com/kata/50654ddff44f800200000001)
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
@@ -18,12 +19,14 @@ www.codewars.com/r/Oa2yyw
 - Multiply (http://www.codewars.com/kata/50654ddff44f800200000004)
 - Name your Python! (http://www.codewars.com/kata/name-your-python/python)
 - Plural (http://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
+- Sentence Smash (http://www.codewars.com/kata/sentence-smash)
 
 <br>
 <b>7kyu</b>
 - Basic Calculator (http://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
 - Basic JS - Building a calculator (http://www.codewars.com/kata/529f2d1c403a58f660000656)
 - Basic JS - Calculating averages (http://www.codewars.com/kata/529f32794a6db5d32a00071f)
+- Caffeine Script (http://www.codewars.com/kata/caffeine-script)
 - Disemvowel Trolls (http://www.codewars.com/kata/52fba66badcd10859f00097e)
 - Elapsed Seconds (http://www.codewars.com/kata/517b25a48557c200b800000c)
 - esreveR gnirtS (http://www.codewars.com/kata/52b74e0936d582d9210005ff)
@@ -41,16 +44,20 @@ www.codewars.com/r/Oa2yyw
 - Sentences with Functions (http://www.codewars.com/kata/52567c56cb6ac86b56000516)
 - Sort arrays - 1 (http://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
 - Sort Numbers (http://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
+- Sort the Gift Code (http://www.codewars.com/kata/sort-the-gift-code)
+- Square Every Digit (http://www.codewars.com/kata/square-every-digit/java)
 - String ends with? (http://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 - Summing a number's digits (http://www.codewars.com/kata/52f3149496de55aded000410)
 - The reject() function (http://www.codewars.com/kata/52988f3f7edba9839c00037d)
 - True Min (http://www.codewars.com/kata/52378b3ee72f21e1ea000045)
+- You're a square! (http://www.codewars.com/kata/youre-a-square)
 
 <br>
 <b>6kyu</b>
 - Breaking search bad (http://www.codewars.com/kata/52cd53948d673a6e66000576)
 - Numerology (http://www.codewars.com/kata/525b4164eb636fb2f90002a0)
 - Reverse words (http://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+- Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
 
 <br>
 <b>4kyu</b>
@@ -58,5 +65,5 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta (Python)</b>
+- Counting sheep... (http://www.codewars.com/kata/counting-sheep-dot-dot-dot)
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
-- Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
