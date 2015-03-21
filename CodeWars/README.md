@@ -6,8 +6,10 @@ www.codewars.com/r/Oa2yyw
 - Are You Playing Banjo? (http://www.codewars.com/kata/are-you-playing-banjo)
 - Basic Training: Add item to an Array (http://www.codewars.com/kata/511f0fe64ae8683297000001)
 - Broken Greetings (http://www.codewars.com/kata/50654ddff44f800200000001)
+- Convert boolean values to strings 'Yes' or 'No'. (http://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 - Convert a String to a Number! (http://www.codewars.com/kata/convert-a-string-to-a-number/javascript)
+- Counting sheep... (http://www.codewars.com/kata/counting-sheep-dot-dot-dot)
 - Even or Odd (http://www.codewars.com/kata/even-or-odd) - My Kata
 - Find the Remainder (http://www.codewars.com/kata/524f5125ad9c12894e00003f)
 - Function 1 - hello world (http://www.codewars.com/kata/523b4ff7adca849afe000035)
@@ -43,6 +45,7 @@ www.codewars.com/r/Oa2yyw
 - Partial Word Searching (http://www.codewars.com/kata/partial-word-searching)
 - Reversed Strings (http://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - Sentences with Functions (http://www.codewars.com/kata/52567c56cb6ac86b56000516)
+- Sequence Sum (http://www.codewars.com/kata/sequencesum)
 - Sort arrays - 1 (http://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
 - Sort Numbers (http://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 - Sort the Gift Code (http://www.codewars.com/kata/sort-the-gift-code)
@@ -51,6 +54,7 @@ www.codewars.com/r/Oa2yyw
 - Summing a number's digits (http://www.codewars.com/kata/52f3149496de55aded000410)
 - The reject() function (http://www.codewars.com/kata/52988f3f7edba9839c00037d)
 - True Min (http://www.codewars.com/kata/52378b3ee72f21e1ea000045)
+- Vowel Count (http://www.codewars.com/kata/vowel-count)
 - You're a square! (http://www.codewars.com/kata/youre-a-square)
 
 <br>
@@ -61,10 +65,16 @@ www.codewars.com/r/Oa2yyw
 - Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
 
 <br>
+<b>5kyu</b>
+- Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
+- Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
+
+<br>
 <b>4kyu</b>
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 <br>
 <b>Beta</b>
-- Counting sheep... (http://www.codewars.com/kata/counting-sheep-dot-dot-dot)
-- Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
+- Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
+- Java StockBroker (http://www.codewars.com/kata/java-stockbroker)
+- Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
