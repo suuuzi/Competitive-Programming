@@ -28,6 +28,11 @@ http://br.spoj.com/
 - 11645. Notas da prova (http://br.spoj.com/problems/NOTA09/)
 - 11648. Aviões de papel (http://br.spoj.com/problems/PAPEL09/)
 - 18519. Saldo do Vovô (http://br.spoj.com/problems/SALDO13/)
+- 18520. Tomadas (http://br.spoj.com/problems/TOMADA13/)
+- 19959. Peça Perdida (http://br.spoj.com/problems/PECA7/)
+- 19964. Telefone (http://br.spoj.com/problems/TEL8/)
+- 19999. Flíper (http://br.spoj.com/problems/JFLIPE14/)
+- 20003. Busca na Internet (http://br.spoj.com/problems/JBUSCA12/)
 
 <br>
 <b>Regionais</b>
@@ -54,3 +59,6 @@ http://br.spoj.com/
 - 3742. Feynman (http://br.spoj.com/problems/FEYNMAN/)
 - 9006. Flores florescem da França (http://br.spoj.com/problems/FLOWER10/)
 
+<br>
+<b>Contest Noturno</b>
+- 20015. Soma simples (http://br.spoj.com/problems/SOMASI/)
