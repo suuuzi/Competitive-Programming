@@ -35,6 +35,7 @@ www.codewars.com/r/Oa2yyw
 - For the sake of argument (http://www.codewars.com/kata/5258b272e6925db09900386a)
 - getNames() (http://www.codewars.com/kata/514a677421607afc99000002)
 - Greet Me (http://www.codewars.com/kata/greet-me/ruby)
+- Jaden Casing Strings (http://www.codewars.com/kata/jaden-casing-strings)
 - JavaScript Array Filter (http://www.codewars.com/kata/514a6336889283a3d2000001)
 - Limit string length - 1 (http://www.codewars.com/kata/5208fc3cb613bc725f000142)
 - Milk and Cookies for Santa (http://www.codewars.com/kata/52af7bf41f5a1291a6000025)
@@ -75,6 +76,8 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta</b>
+- Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
+- Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
 - Java StockBroker (http://www.codewars.com/kata/java-stockbroker)
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
