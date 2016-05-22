@@ -69,6 +69,7 @@ www.codewars.com/r/Oa2yyw
 <b>5kyu</b>
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
+- Regex Password Validation (http://www.codewars.com/kata/regex-password-validation/javascript)
 
 <br>
 <b>4kyu</b>
