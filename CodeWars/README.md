@@ -64,6 +64,7 @@ www.codewars.com/r/Oa2yyw
 - Numerology (http://www.codewars.com/kata/525b4164eb636fb2f90002a0)
 - Reverse words (http://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
+- WeIrD StRiNg CaSe (http://www.codewars.com/kata/52b757663a95b11b3d00062d)
 
 <br>
 <b>5kyu</b>
