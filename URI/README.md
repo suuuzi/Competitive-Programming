@@ -93,6 +93,7 @@ www.urionlinejudge.com.br
 
 <b>Estruturas e bibliotecas</b>
 - 1259 - Pares e Ímpares (https://www.urionlinejudge.com.br/judge/pt/problems/view/1259)
+- 1709 - Baralho Embaralhado (https://www.urionlinejudge.com.br/judge/pt/problems/view/1709)
 
 <b>Matemática</b>
 - 1221 - Primo Rápido (https://www.urionlinejudge.com.br/judge/pt/problems/view/1221)
