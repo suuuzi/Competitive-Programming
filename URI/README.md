@@ -89,6 +89,7 @@ www.urionlinejudge.com.br
 - 1546 - Feedback (https://www.urionlinejudge.com.br/judge/pt/problems/view/1546)
 - 1708 - Volta (https://www.urionlinejudge.com.br/judge/pt/problems/view/1708
 - 1715 - Handebol (https://www.urionlinejudge.com.br/judge/pt/problems/view/1715)
+- 1718 - Pizza de vô Pepe (https://www.urionlinejudge.com.br/judge/pt/problems/view/1718
 
 <b>Strings</b>
 - 1241 - Encaixa ou Não II (https://www.urionlinejudge.com.br/judge/pt/problems/view/1241)
