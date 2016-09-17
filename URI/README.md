@@ -79,6 +79,7 @@ www.urionlinejudge.com.br
 - 1165 - Número Primo (https://www.urionlinejudge.com.br/judge/pt/problems/view/1165)
 - 1564 - Vai Ter Copa? (https://www.urionlinejudge.com.br/judge/pt/problems/view/1564)
 - 1759 - Ho Ho Ho (https://www.urionlinejudge.com.br/judge/pt/problems/view/1759)
+- 2221 - Batalha de pokemons (https://www.urionlinejudge.com.br/judge/pt/problems/view/2221)
 - 2234 - Cachorros-Quentes (https://www.urionlinejudge.com.br/judge/pt/problems/view/2234)
 
 <b>Ad-Hoc</b>
