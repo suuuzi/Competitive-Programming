@@ -63,6 +63,7 @@ www.codewars.com/r/Oa2yyw
 <b>6kyu</b>
 - Breaking search bad (http://www.codewars.com/kata/52cd53948d673a6e66000576)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
+- Ease the StockBroker (https://www.codewars.com/kata/54de3257f565801d96001200)
 - Is Integer Array (https://www.codewars.com/kata/is-integer-array)
 - JS is Weird: Return a (https://www.codewars.com/kata/js-is-weird-return-a/javascript)
 - N-th Fibonacci (https://www.codewars.com/kata/n-th-fibonacci/javascript)
@@ -94,6 +95,5 @@ www.codewars.com/r/Oa2yyw
 - Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
-- Java StockBroker (http://www.codewars.com/kata/java-stockbroker)
 - JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
