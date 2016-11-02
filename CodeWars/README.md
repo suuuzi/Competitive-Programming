@@ -16,6 +16,7 @@ www.codewars.com/r/Oa2yyw
 - Function 2 - squaring an argument (http://www.codewars.com/kata/523b623152af8a30c6000027)
 - Function 3 - multiplying two numbers (http://www.codewars.com/kata/523b66342d0c301ae400003b)
 - Grader (http://www.codewars.com/kata/grader/python)
+- How do I compare numbers (https://www.codewars.com/kata/how-do-i-compare-numbers)
 - How many lightsabers do you own? (http://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 - Kata Example Twist (http://www.codewars.com/kata/525c1a07bb6dda6944000031)
 - Multiply (http://www.codewars.com/kata/50654ddff44f800200000004)
