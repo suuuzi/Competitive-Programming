@@ -93,4 +93,5 @@ www.codewars.com/r/Oa2yyw
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
 - Java StockBroker (http://www.codewars.com/kata/java-stockbroker)
+- JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
