@@ -81,6 +81,11 @@ www.codewars.com/r/Oa2yyw
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 <br>
+<b>3kyu</b>
+- Calculator (https://www.codewars.com/kata/calculator/)
+
+
+<br>
 <b>Beta</b>
 - Authenticate a list of usernames.js (https://www.codewars.com/kata/authenticate-a-list-of-usernames/javascript)
 - Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
