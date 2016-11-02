@@ -64,6 +64,7 @@ www.codewars.com/r/Oa2yyw
 - Breaking search bad (http://www.codewars.com/kata/52cd53948d673a6e66000576)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
 - Is Integer Array (https://www.codewars.com/kata/is-integer-array)
+- JS is Weird: Return a (https://www.codewars.com/kata/js-is-weird-return-a/javascript)
 - Numerology (http://www.codewars.com/kata/525b4164eb636fb2f90002a0)
 - Reverse words (http://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
