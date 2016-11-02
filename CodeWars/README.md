@@ -73,6 +73,7 @@ www.codewars.com/r/Oa2yyw
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
 - Regex Password Validation (http://www.codewars.com/kata/regex-password-validation/javascript)
+- Simple pig latin (https://www.codewars.com/kata/simple-pig-latin)
 
 <br>
 <b>4kyu</b>
