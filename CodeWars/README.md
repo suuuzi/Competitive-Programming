@@ -80,12 +80,12 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>4kyu</b>
+- Roman Numerals Decoder (https://www.codewars.com/kata/roman-numerals-decoder/javascript)
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 <br>
 <b>3kyu</b>
 - Calculator (https://www.codewars.com/kata/calculator/)
-
 
 <br>
 <b>Beta</b>
