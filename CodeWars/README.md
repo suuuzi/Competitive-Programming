@@ -78,6 +78,7 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta</b>
+- Authenticate a list of usernames.js (https://www.codewars.com/kata/authenticate-a-list-of-usernames/javascript)
 - Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
