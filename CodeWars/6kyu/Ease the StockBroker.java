@@ -1,4 +1,4 @@
-// Problem: Java StockBroker (http://www.codewars.com/kata/java-stockbroker)
+// Problem: Ease the StockBroker (https://www.codewars.com/kata/54de3257f565801d96001200)
 
 public class OrdersSummary {
 
