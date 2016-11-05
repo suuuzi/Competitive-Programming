@@ -5,6 +5,7 @@ www.codewars.com/r/Oa2yyw
 <b>8kyu </b>
 - Are You Playing Banjo? (http://www.codewars.com/kata/are-you-playing-banjo)
 - Basic Training: Add item to an Array (http://www.codewars.com/kata/511f0fe64ae8683297000001)
+- Broken Counter (https://www.codewars.com/kata/broken-counter)
 - Broken Greetings (http://www.codewars.com/kata/50654ddff44f800200000001)
 - Convert boolean values to strings 'Yes' or 'No'. (http://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - Convert a Number to a String! (http://www.codewars.com/kata/5265326f5fda8eb1160004c8)
