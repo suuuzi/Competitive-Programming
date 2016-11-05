@@ -26,6 +26,7 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>7kyu</b>
+- Authenticate a list of usernames.js (https://www.codewars.com/kata/authenticate-a-list-of-usernames/javascript)
 - Basic Calculator (http://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
 - Basic JS - Building a calculator (http://www.codewars.com/kata/529f2d1c403a58f660000656)
 - Basic JS - Calculating averages (http://www.codewars.com/kata/529f32794a6db5d32a00071f)
@@ -91,9 +92,7 @@ www.codewars.com/r/Oa2yyw
 
 <br>
 <b>Beta</b>
-- Authenticate a list of usernames.js (https://www.codewars.com/kata/authenticate-a-list-of-usernames/javascript)
 - Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
-- Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
 - JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
