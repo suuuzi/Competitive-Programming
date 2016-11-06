@@ -79,6 +79,7 @@ www.codewars.com/r/Oa2yyw
 <b>5kyu</b>
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
+- JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
 - Regex Password Validation (http://www.codewars.com/kata/regex-password-validation/javascript)
 - Simple pig latin (https://www.codewars.com/kata/simple-pig-latin)
 
@@ -96,5 +97,4 @@ www.codewars.com/r/Oa2yyw
 <b>Beta</b>
 - Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
-- JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
