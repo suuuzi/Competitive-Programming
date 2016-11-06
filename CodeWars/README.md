@@ -90,6 +90,7 @@ www.codewars.com/r/Oa2yyw
 <br>
 <b>3kyu</b>
 - Calculator (https://www.codewars.com/kata/calculator/)
+- Help the general decode secret enemy messages (https://www.codewars.com/kata/help-the-general-decode-secret-enemy-messages/javascript)
 
 <br>
 <b>Beta</b>
