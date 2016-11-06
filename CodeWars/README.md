@@ -80,6 +80,7 @@ www.codewars.com/r/Oa2yyw
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
 - JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
+- Part 1: Evil Programming Government Restrictions (https://www.codewars.com/kata/part-1-evil-programming-government-restrictions/javascript)
 - Regex Password Validation (http://www.codewars.com/kata/regex-password-validation/javascript)
 - Simple pig latin (https://www.codewars.com/kata/simple-pig-latin)
 
