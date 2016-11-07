@@ -1,5 +1,7 @@
 Code Wars
 =================================
+![CodeWars Rank](https://www.codewars.com/users/suuuzi/badges/small)
+
 www.codewars.com/r/Oa2yyw
 
 <b>8kyu </b>
