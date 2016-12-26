@@ -79,6 +79,7 @@ www.urionlinejudge.com.br
 - 1165 - Número Primo (https://www.urionlinejudge.com.br/judge/pt/problems/view/1165)
 - 1564 - Vai Ter Copa? (https://www.urionlinejudge.com.br/judge/pt/problems/view/1564)
 - 1759 - Ho Ho Ho (https://www.urionlinejudge.com.br/judge/pt/problems/view/1759)
+- 1930 - Tomadas (https://www.urionlinejudge.com.br/judge/pt/problems/view/1930)
 - 2221 - Batalha de pokemons (https://www.urionlinejudge.com.br/judge/pt/problems/view/2221)
 - 2234 - Cachorros-Quentes (https://www.urionlinejudge.com.br/judge/pt/problems/view/2234)
 
@@ -91,7 +92,26 @@ www.urionlinejudge.com.br
 - 1546 - Feedback (https://www.urionlinejudge.com.br/judge/pt/problems/view/1546)
 - 1708 - Volta (https://www.urionlinejudge.com.br/judge/pt/problems/view/1708
 - 1715 - Handebol (https://www.urionlinejudge.com.br/judge/pt/problems/view/1715)
-- 1718 - Pizza de vô Pepe (https://www.urionlinejudge.com.br/judge/pt/problems/view/1718
+- 1718 - Pizza do vô Pepe (https://www.urionlinejudge.com.br/judge/pt/problems/view/1718)
+- 2189 - Quermesse (https://www.urionlinejudge.com.br/judge/pt/problems/view/2189)
+- 2286 - Par ou ímpar (https://www.urionlinejudge.com.br/judge/pt/problems/view/2286)
+- 2293 - Campo de minhocas (https://www.urionlinejudge.com.br/judge/pt/problems/view/2293)
+- 2295 - Frota de táxi (https://www.urionlinejudge.com.br/judge/pt/problems/view/2295)
+- 2297 - Bafo (https://www.urionlinejudge.com.br/judge/pt/problems/view/2297)
+- 2322 - Peça Perdida (https://www.urionlinejudge.com.br/judge/pt/problems/view/2322)
+- 2339 - Aviões de papel (https://www.urionlinejudge.com.br/judge/pt/problems/view/2339)
+- 2344 - Notas da prova (https://www.urionlinejudge.com.br/judge/pt/problems/view/2344)
+- 2373 - Garçom (https://www.urionlinejudge.com.br/judge/pt/problems/view/2373)
+- 2374 - Pneu (https://www.urionlinejudge.com.br/judge/pt/problems/view/2374)
+- 2375 - Sedex (https://www.urionlinejudge.com.br/judge/pt/problems/view/2375)
+- 2378 - Elevador (https://www.urionlinejudge.com.br/judge/pt/problems/view/2378)
+- 2388 - Tacógrafo (https://www.urionlinejudge.com.br/judge/pt/problems/view/2388)
+- 2387 - Dentista (https://www.urionlinejudge.com.br/judge/pt/problems/view/2387)
+- 2395 - Transporte de conteiners (https://www.urionlinejudge.com.br/judge/pt/problems/view/2395)
+- 2401 - Calculadora (https://www.urionlinejudge.com.br/judge/pt/problems/view/2401)
+- 2413 - Busca na internet (https://www.urionlinejudge.com.br/judge/pt/problems/view/2413)
+- 2434 - Saldo do vovô (https://www.urionlinejudge.com.br/judge/pt/problems/view/2434)
+- 2454 - Fliper (https://www.urionlinejudge.com.br/judge/pt/problems/view/2454)
 
 <b>Strings</b>
 - 1241 - Encaixa ou Não II (https://www.urionlinejudge.com.br/judge/pt/problems/view/1241)
