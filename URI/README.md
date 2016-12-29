@@ -2,7 +2,7 @@ URI Online Judge
 =================================
 www.urionlinejudge.com.br
 
-<b>Iniciante</b>
+**Iniciante**
 - 1001 - Extremamente Básico (https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 - 1002 - Área do Círculo (https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
 - 1003 - Soma Simples (https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
@@ -82,8 +82,10 @@ www.urionlinejudge.com.br
 - 1930 - Tomadas (https://www.urionlinejudge.com.br/judge/pt/problems/view/1930)
 - 2221 - Batalha de pokemons (https://www.urionlinejudge.com.br/judge/pt/problems/view/2221)
 - 2234 - Cachorros-Quentes (https://www.urionlinejudge.com.br/judge/pt/problems/view/2234)
+- 2235 - Andando no Tempo (https://www.urionlinejudge.com.br/judge/pt/problems/view/2235)
+- 2242 - Huaauhahhuahau (https://www.urionlinejudge.com.br/judge/pt/problems/view/2242)
 
-<b>Ad-Hoc</b>
+**Ad-Hoc**
 - 1091 - Divisão da Nlogônia (https://www.urionlinejudge.com.br/judge/pt/problems/view/1091)
 - 1103 - Alarme Despertador (https://www.urionlinejudge.com.br/judge/pt/problems/view/1103)
 - 1140 - Flores Florescem da França (https://www.urionlinejudge.com.br/judge/pt/problems/view/1140)
@@ -93,7 +95,10 @@ www.urionlinejudge.com.br
 - 1708 - Volta (https://www.urionlinejudge.com.br/judge/pt/problems/view/1708
 - 1715 - Handebol (https://www.urionlinejudge.com.br/judge/pt/problems/view/1715)
 - 1718 - Pizza do vô Pepe (https://www.urionlinejudge.com.br/judge/pt/problems/view/1718)
+- 2134 - Quem Vai Ser Reprovado? (https://www.urionlinejudge.com.br/judge/pt/problems/view/2134)
+- 2187 - Bits trocados (https://www.urionlinejudge.com.br/judge/pt/problems/view/2187)
 - 2189 - Quermesse (https://www.urionlinejudge.com.br/judge/pt/problems/view/2189)
+- 2247 - Cofrinhos da vó Vitória (https://www.urionlinejudge.com.br/judge/pt/problems/view/2247)
 - 2286 - Par ou ímpar (https://www.urionlinejudge.com.br/judge/pt/problems/view/2286)
 - 2293 - Campo de minhocas (https://www.urionlinejudge.com.br/judge/pt/problems/view/2293)
 - 2295 - Frota de táxi (https://www.urionlinejudge.com.br/judge/pt/problems/view/2295)
@@ -101,6 +106,7 @@ www.urionlinejudge.com.br
 - 2322 - Peça Perdida (https://www.urionlinejudge.com.br/judge/pt/problems/view/2322)
 - 2339 - Aviões de papel (https://www.urionlinejudge.com.br/judge/pt/problems/view/2339)
 - 2344 - Notas da prova (https://www.urionlinejudge.com.br/judge/pt/problems/view/2344)
+- 2369 - Conta de água (https://www.urionlinejudge.com.br/judge/pt/problems/view/2369)
 - 2373 - Garçom (https://www.urionlinejudge.com.br/judge/pt/problems/view/2373)
 - 2374 - Pneu (https://www.urionlinejudge.com.br/judge/pt/problems/view/2374)
 - 2375 - Sedex (https://www.urionlinejudge.com.br/judge/pt/problems/view/2375)
@@ -113,18 +119,18 @@ www.urionlinejudge.com.br
 - 2434 - Saldo do vovô (https://www.urionlinejudge.com.br/judge/pt/problems/view/2434)
 - 2454 - Fliper (https://www.urionlinejudge.com.br/judge/pt/problems/view/2454)
 
-<b>Strings</b>
+**Strings**
 - 1241 - Encaixa ou Não II (https://www.urionlinejudge.com.br/judge/pt/problems/view/1241)
 
-<b>Estruturas e bibliotecas</b>
+**Estruturas e bibliotecas**
 - 1259 - Pares e Ímpares (https://www.urionlinejudge.com.br/judge/pt/problems/view/1259)
 - 1709 - Baralho Embaralhado (https://www.urionlinejudge.com.br/judge/pt/problems/view/1709)
 
-<b>Matemática</b>
+**Matemática**
 - 1221 - Primo Rápido (https://www.urionlinejudge.com.br/judge/pt/problems/view/1221)
 - 1240 - Encaixa ou Não I (https://www.urionlinejudge.com.br/judge/pt/problems/view/1240)
 - 1247 - Guarda Costeira (https://www.urionlinejudge.com.br/judge/pt/problems/view/1247)
 - 1323 - Feynman (https://www.urionlinejudge.com.br/judge/pt/problems/view/1323)
 
-<b>Geometria Computacional</b>
+**Geometria Computacional**
 - 1124 - Elevador (https://www.urionlinejudge.com.br/judge/pt/problems/view/1124)
