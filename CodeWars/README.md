@@ -4,7 +4,7 @@ Code Wars
 
 www.codewars.com/r/Oa2yyw
 
-<b>8kyu </b>
+**8kyu**
 - Are You Playing Banjo? (http://www.codewars.com/kata/are-you-playing-banjo)
 - Basic Training: Add item to an Array (http://www.codewars.com/kata/511f0fe64ae8683297000001)
 - Broken Counter (https://www.codewars.com/kata/broken-counter)
@@ -27,13 +27,15 @@ www.codewars.com/r/Oa2yyw
 - Plural (http://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
 - Sentence Smash (http://www.codewars.com/kata/sentence-smash)
 
-<br>
-<b>7kyu</b>
+
+**7kyu**
 - Authenticate a list of usernames.js (https://www.codewars.com/kata/authenticate-a-list-of-usernames/javascript)
 - Basic Calculator (http://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
 - Basic JS - Building a calculator (http://www.codewars.com/kata/529f2d1c403a58f660000656)
 - Basic JS - Calculating averages (http://www.codewars.com/kata/529f32794a6db5d32a00071f)
+- Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
 - Caffeine Script (http://www.codewars.com/kata/caffeine-script)
+- Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
 - Descending Order (https://www.codewars.com/kata/descending-order/javascript)
 - Disemvowel Trolls (http://www.codewars.com/kata/52fba66badcd10859f00097e)
 - Elapsed Seconds (http://www.codewars.com/kata/517b25a48557c200b800000c)
@@ -64,8 +66,8 @@ www.codewars.com/r/Oa2yyw
 - Vowel Count (http://www.codewars.com/kata/vowel-count)
 - You're a square! (http://www.codewars.com/kata/youre-a-square)
 
-<br>
-<b>6kyu</b>
+
+**6kyu**
 - Breaking search bad (http://www.codewars.com/kata/52cd53948d673a6e66000576)
 - Duplicate Encoder (http://www.codewars.com/kata/duplicate-encoder)
 - Ease the StockBroker (https://www.codewars.com/kata/54de3257f565801d96001200)
@@ -73,13 +75,14 @@ www.codewars.com/r/Oa2yyw
 - JS is Weird: Return a (https://www.codewars.com/kata/js-is-weird-return-a/javascript)
 - N-th Fibonacci (https://www.codewars.com/kata/n-th-fibonacci/javascript)
 - Numerology (http://www.codewars.com/kata/525b4164eb636fb2f90002a0)
+- Multiple of 11 (https://www.codewars.com/kata/multiple-of-11) - My kata
 - Reverse words (http://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - Solving Quadratics (http://www.codewars.com/kata/solving-quadratics/javascript)
 - Stop gninnipS My sdroW! (https://www.codewars.com/kata/stop-gninnips-my-sdrow)
 - WeIrD StRiNg CaSe (http://www.codewars.com/kata/52b757663a95b11b3d00062d)
 
-<br>
-<b>5kyu</b>
+
+**5kyu**
 - Did I Finish my Sudoku? (http://www.codewars.com/kata/did-i-finish-my-sudoku/python) - My Kata
 - Everyone has his little secrets (http://www.codewars.com/kata/everyone-has-his-little-secrets)
 - JS is Weird: Return fuelstar (https://www.codewars.com/kata/js-is-weird-return-fuelstar/javascript)
@@ -87,18 +90,15 @@ www.codewars.com/r/Oa2yyw
 - Regex Password Validation (http://www.codewars.com/kata/regex-password-validation/javascript)
 - Simple pig latin (https://www.codewars.com/kata/simple-pig-latin)
 
-<br>
-<b>4kyu</b>
+
+**4kyu**
 - Roman Numerals Decoder (https://www.codewars.com/kata/roman-numerals-decoder/javascript)
 - Sudoku Solution Validator (http://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
-<br>
-<b>3kyu</b>
+
+**3kyu**
 - Calculator (https://www.codewars.com/kata/calculator/)
 - Help the general decode secret enemy messages (https://www.codewars.com/kata/help-the-general-decode-secret-enemy-messages/javascript)
 
-<br>
-<b>Beta</b>
-- Broken sequence (http://www.codewars.com/kata/broken-sequence/) - My Kata
-- Convert Time to String (http://www.codewars.com/kata/convert-time-to-string)
+**Beta**
 - Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
