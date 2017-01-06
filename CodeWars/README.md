@@ -34,6 +34,7 @@ www.codewars.com/r/Oa2yyw
 - Basic JS - Building a calculator (http://www.codewars.com/kata/529f2d1c403a58f660000656)
 - Basic JS - Calculating averages (http://www.codewars.com/kata/529f32794a6db5d32a00071f)
 - Caffeine Script (http://www.codewars.com/kata/caffeine-script)
+- Descending Order (https://www.codewars.com/kata/descending-order/javascript)
 - Disemvowel Trolls (http://www.codewars.com/kata/52fba66badcd10859f00097e)
 - Elapsed Seconds (http://www.codewars.com/kata/517b25a48557c200b800000c)
 - esreveR gnirtS (http://www.codewars.com/kata/52b74e0936d582d9210005ff)
