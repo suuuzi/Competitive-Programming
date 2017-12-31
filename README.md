@@ -1,4 +1,4 @@
-#Competitive Programming
+# Competitive Programming
 
 Lembrando que são códigos de problemas de maratona, ou seja: 1) A intenção inicial é passar o problema, então pode ter muito código lixo aí no meio esperando para ser refatorado e 2) Não aconselho copiar qualquer coisa apenas para passar o problema e etc. A intenção destes sites/problemas (ao meu ver) é justamente você ver o que consegue fazer :)
 
