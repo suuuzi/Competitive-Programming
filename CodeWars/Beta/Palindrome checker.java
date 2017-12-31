@@ -1,4 +1,4 @@
-// Problem: Palindrome checker (http://www.codewars.com/kata/palindrome-checker)Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
+// Problem: Palindrome checker (http://www.codewars.com/kata/palindrome-checker)
 
 public class PalindromChecker {
   public boolean isPalindrome(String str) {
